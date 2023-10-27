@@ -21,7 +21,7 @@ def logError(exception):
     log("!!!!! ERROR !!!!!")
     log(exception)
 
-maxItems = 4
+maxItems = 5
 now = dt.now()
 hour = now.hour
 hour -= 12 if hour >= 13 else hour

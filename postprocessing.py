@@ -30,7 +30,7 @@ hour = now.hour
 if hour >= 12:
     hour = hour - 12
 num_lines = sum(1 for _ in open('subscriptions.csv'))
-block_size = ceil(num_lines/12)
+block_size = ceil(num_lines/3)
 start_range = hour*block_size
 end_range = start_range+block_size
 log(f"Github time: {now}, True Hour: {now.hour}, Adjusted Hour: {hour}")

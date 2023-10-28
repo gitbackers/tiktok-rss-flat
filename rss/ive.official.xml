@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-10-28T03:40:31+00:00</updated>
+  <updated>2023-10-28T11:31:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://gitvsporn.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7293140712881704200</id>
-    <title>Off The Record Sped up ✨ #IVE #아이브 #アイヴ #ANYUJIN #안유진 #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie #NewMusic </title>
-    <updated>2023-10-23T13:10:49+00:00</updated>
-    <content>Off The Record Sped up ✨ #IVE #아이브 #アイヴ #ANYUJIN #안유진 #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie #NewMusic </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7293140712881704200" rel="alternate"/>
-    <published>2023-10-23T13:10:49+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7293370098805525768</id>
     <title>셔누x형원 선배님들 짱! 👍🐻🐢👍 #MONSTA_X #SHOWNU #HYUNGWON 선배님과의 #BaddieChallenge 🕶️ #Baddie #IVE #아이브 #アイヴ #ANYUJIN #안유진 #LIZ #리즈 #MONSTAX #몬스타엑스 #셔누 #형원 #NewMusic </title>
@@ -91,5 +83,13 @@
     <content>얘들아〰️ 아래 층 집에서 올라온다〰️ (부제: 슬릭백 첫 번째 시도 절망편) #IVE #아이브 #アイヴ #GAEUL #가을 #ガウル #REI #레이 #レイ #LIZ #리즈 #リズ #LEESEO #이서 #イソ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie #slickback </content>
     <link href="https://www.tiktok.com/@ive.official/video/7294849170328849672" rel="alternate"/>
     <published>2023-10-28T03:40:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7294970660198157586</id>
+    <title>고“개”도 개다 🐶 냥 다음에 멍 🐾 #Baddie #IVE #아이브 #アイヴ #ANYUJIN #안유진 #LIZ #리즈  #BaddieChallenge #NewMusic </title>
+    <updated>2023-10-28T11:31:58+00:00</updated>
+    <content>고“개”도 개다 🐶 냥 다음에 멍 🐾 #Baddie #IVE #아이브 #アイヴ #ANYUJIN #안유진 #LIZ #리즈  #BaddieChallenge #NewMusic </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7294970660198157586" rel="alternate"/>
+    <published>2023-10-28T11:31:58+00:00</published>
   </entry>
 </feed>

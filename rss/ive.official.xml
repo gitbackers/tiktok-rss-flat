@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@ive.official</id>
   <title>@ive.official | TikTok</title>
-  <updated>2023-10-27T12:00:00+00:00</updated>
+  <updated>2023-10-28T03:40:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://gitvsporn.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @ive.official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@ive.official/video/7293014704174157063</id>
-    <title>설윤중심🐰 #NMIXX #SULLYOON 님과 함께한 #BaddieChallenge (Easy ver.) 이 조합 너무 기특해요 복복복 🫳🫳🫳 칭찬 도장 💯💯💯 #Baddie #IVE #아이브 #アイヴ #REI #레이 #LIZ #리즈 #엔믹스 #설윤 #NewMusic </title>
-    <updated>2023-10-23T05:01:51+00:00</updated>
-    <content>설윤중심🐰 #NMIXX #SULLYOON 님과 함께한 #BaddieChallenge (Easy ver.) 이 조합 너무 기특해요 복복복 🫳🫳🫳 칭찬 도장 💯💯💯 #Baddie #IVE #아이브 #アイヴ #REI #레이 #LIZ #리즈 #엔믹스 #설윤 #NewMusic </content>
-    <link href="https://www.tiktok.com/@ive.official/video/7293014704174157063" rel="alternate"/>
-    <published>2023-10-23T05:01:51+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@ive.official/video/7293140712881704200</id>
     <title>Off The Record Sped up ✨ #IVE #아이브 #アイヴ #ANYUJIN #안유진 #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie #NewMusic </title>
@@ -91,5 +83,13 @@
     <content>#RIIZE #ANTON 님과 함께한 Get A #BaddieChallenge 🧡 #Baddie #IVE #아이브 #アイヴ #GAEUL #가을 #라이즈 #앤톤 #NewMusic </content>
     <link href="https://www.tiktok.com/@ive.official/video/7294606806888828167" rel="alternate"/>
     <published>2023-10-27T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@ive.official/video/7294849170328849672</id>
+    <title>얘들아〰️ 아래 층 집에서 올라온다〰️ (부제: 슬릭백 첫 번째 시도 절망편) #IVE #아이브 #アイヴ #GAEUL #가을 #ガウル #REI #레이 #レイ #LIZ #리즈 #リズ #LEESEO #이서 #イソ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie #slickback </title>
+    <updated>2023-10-28T03:40:31+00:00</updated>
+    <content>얘들아〰️ 아래 층 집에서 올라온다〰️ (부제: 슬릭백 첫 번째 시도 절망편) #IVE #아이브 #アイヴ #GAEUL #가을 #ガウル #REI #레이 #レイ #LIZ #리즈 #リズ #LEESEO #이서 #イソ #1stEP #IVEMINE #Eitherway #OfftheRecord #Baddie #slickback </content>
+    <link href="https://www.tiktok.com/@ive.official/video/7294849170328849672" rel="alternate"/>
+    <published>2023-10-28T03:40:31+00:00</published>
   </entry>
 </feed>

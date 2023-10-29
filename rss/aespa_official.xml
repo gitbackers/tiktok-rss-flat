@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@aespa_official</id>
   <title>@aespa_official | TikTok</title>
-  <updated>2023-10-25T15:07:34+00:00</updated>
+  <updated>2023-10-29T15:10:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://gitvsporn.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @aespa_official</subtitle>
-  <entry>
-    <id>https://www.tiktok.com/@aespa_official/video/7289335675244072200</id>
-    <title>🚨 한국의 MY 여러분, 'LYNK-POP: THE 1st VR CONCERT aespa' 티켓팅 하셨나요?! 에스파의 첫 VR콘서트를 보는 MY가 될 기회를 놓치지 마세요 ⏳  메가박스 앱 또는 홈페이지에서 티켓을 구매하고 우리 함께 æ-venture를 떠나요! 🚀 https://megabox.co.kr/event/detail?eventNo=14145 🚨 Korea MYs, have you secured your 'LYNK-POP: THE 1st VR</title>
-    <updated>2023-10-13T07:05:20+00:00</updated>
-    <content>🚨 한국의 MY 여러분, 'LYNK-POP: THE 1st VR CONCERT aespa' 티켓팅 하셨나요?! 에스파의 첫 VR콘서트를 보는 MY가 될 기회를 놓치지 마세요 ⏳  메가박스 앱 또는 홈페이지에서 티켓을 구매하고 우리 함께 æ-venture를 떠나요! 🚀 https://megabox.co.kr/event/detail?eventNo=14145 🚨 Korea MYs, have you secured your 'LYNK-POP: THE 1st VR CONCERT aespa' tickets yet?! Meet face to face with aespa in VR! ⏳ Get your tickets from the Megabox app and be part of this spectacular æ-venture! 🚀 https://megabox.co.kr/event/detail?eventNo=14145 #aespa #æspa #에스파 #LYNKPOP #에스파VR콘서트 #aespaVRconcert #AmazeVR #VR #VR콘서트 #VRconcert</content>
-    <link href="https://www.tiktok.com/@aespa_official/video/7289335675244072200" rel="alternate"/>
-    <published>2023-10-13T07:05:20+00:00</published>
-  </entry>
   <entry>
     <id>https://www.tiktok.com/@aespa_official/video/7289441631491640584</id>
     <title>🌊💃🐬✨ #aespa #æspa #에스파 #KARINA #카리나 #NINGNING #닝닝 </title>
@@ -91,5 +83,13 @@
     <content>aespa 에스파 'Drama' The Giant #GISELLE aespa 에스파 The 4th Mini Album 〖Drama〗  ➫ 2023.11.10 2PM (KST) / 0AM (ET) #aespa #æspa #에스파  #GISELLE #지젤 #Drama #aespaDrama</content>
     <link href="https://www.tiktok.com/@aespa_official/video/7293912969019198727" rel="alternate"/>
     <published>2023-10-25T15:07:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://www.tiktok.com/@aespa_official/video/7295398147004714248</id>
+    <title>aespa 에스파 'Drama' The Scene | Mood Sampler aespa 에스파 The 4th Mini Album 〖Drama〗  ➫ 2023.11.10 2PM (KST) / 0AM (ET) #aespa #æspa #에스파  #Drama #aespaDrama</title>
+    <updated>2023-10-29T15:10:50+00:00</updated>
+    <content>aespa 에스파 'Drama' The Scene | Mood Sampler aespa 에스파 The 4th Mini Album 〖Drama〗  ➫ 2023.11.10 2PM (KST) / 0AM (ET) #aespa #æspa #에스파  #Drama #aespaDrama</content>
+    <link href="https://www.tiktok.com/@aespa_official/video/7295398147004714248" rel="alternate"/>
+    <published>2023-10-29T15:10:50+00:00</published>
   </entry>
 </feed>

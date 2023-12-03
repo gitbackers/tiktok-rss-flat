@@ -8,7 +8,7 @@ from math import ceil
 # Now using a new TikTok library https://github.com/Russell-Newton/TikTokPy
 
 # Normal GitHub Pages URL
-githubPagesUrl = "https://gitvsporn.github.io/tiktok-rss-flat/"
+githubPagesUrl = "https://gitbackers.github.io/tiktok-rss-flat/"
 
 # Custom Domain
 # githubPagesUrl = "https://tiktokrss.conoroneill.com/"

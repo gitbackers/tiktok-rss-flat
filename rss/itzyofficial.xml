@@ -8,9 +8,9 @@
     <email>conor@conoroneill.com</email>
   </author>
   <link href="https://www.tiktok.com/@itzyofficial" rel="alternate"/>
-  <link href="https://gitvsporn.github.io/tiktok-rss-flat/rss/itzyofficial.xml" rel="self"/>
+  <link href="https://gitbackers.github.io/tiktok-rss-flat/rss/itzyofficial.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
-  <logo>https://gitvsporn.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
+  <logo>https://gitbackers.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>Latest TikToks from @itzyofficial</subtitle>
   <entry>
     <id>https://www.tiktok.com/@itzyofficial/video/7283428310581824769</id>

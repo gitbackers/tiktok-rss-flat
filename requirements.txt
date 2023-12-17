@@ -1,5 +1,6 @@
 asyncio
 feedgen
 # tiktokapipy<0.2
-tiktokapipy @ git+https://github.com/finesseus/MalTikTokPy@main
-pydantic<2
+tiktokapipy
+# pydantic<2
+pydantic
